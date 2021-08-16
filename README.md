@@ -1,3 +1,8 @@
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Akash280999.Akash280999)
+
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
